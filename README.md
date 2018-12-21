@@ -22,7 +22,7 @@ Forkとは、簡単にいうとGitHub上のリポジトリのコピーを作�
 
 - [codegrit-jp-students/fork-practice](https://github.com/codegrit-jp-students/fork-practice)
 
-![Fork1](../images/fork-practice-1.png)
+![Fork1](./images/fork-practice-1.png)
 
 リポジトリのページの右上にFork(画像参照)という文字があるのでこちらをクリックしてください。
 
@@ -30,7 +30,7 @@ Forkとは、簡単にいうとGitHub上のリポジトリのコピーを作�
 
 すると、リポジトリが自分のリポジトリとしてフォークされます。
 
-![Fork2](../images/fork-practice-2.png)
+![Fork2](./images/fork-practice-2.png)
 
 ## `git clone`でローカル上にリポジトリをダウンロードする
 
@@ -78,21 +78,21 @@ Pull Requestとは、この場合はフォーク先で加えた変更をフォ�
 
 Pull Requestを行うには、まずフォーク先のリポジトリのページで"New pull request"というボタンをクリックします。(画像参照)
 
-![Pull Request1](../images/fork-practice-3.png)
+![Pull Request1](./images/fork-practice-3.png)
 
 次のページでは、変更内容を再度確認出来ます。問題なければ左上の"Create pull request"というボタンをクリックします。
 
-![Pull Request2](../images/pull-request-2.png)
+![Pull Request2](./images/pull-request-2.png)
 
 すると以下のようにコメントを入れることの出来る画面が出てきます。
 
-![Pull Request3](../images/pull-request-3.png)
+![Pull Request3](./images/pull-request-3.png)
 
 タイトルとコメントを加えて大丈夫なら再度右下の"Create pull request"ボタンをクリックします。
 
 すると、以下の画像のようにフォーク元の開発者がコメントを行ったり、リクエスト内容を承認するか選べるページが作成されます。
 
-![Pull Request4](../images/pull-request-4.png)
+![Pull Request4](./images/pull-request-4.png)
 
 
 ## CodeGritでの課題提出とレビューの流れ
